@@ -1,0 +1,48 @@
+DIFFERENCE BETWEEN PYTHON,C,AND JAVA CODE EXECUTION :
+
+1.PYTHON:
+          python code is generally interpreted .
+ when we run a python program,python first converts the code into bytecode,and then the python virtual machine (PVM)excutes that bytecode.
+
+EXAMPLE:
+
+print("Helllo")
+
+2.C
+
+c is a complied language.
+the c source code is first converted by a compiler into machine code.
+After compilation,the computer can directly excute the generated machine code.
+
+EXAMPLE:
+
+Include <stdio.h>
+
+int main() {
+    print("hello");
+    return 0;
+
+}    
+
+
+3.JAVA
+java source code is complied into bytecode.
+the java virtual machine(JVM) then excutes this bytecode, which helps java programs run on different operating systems that have a compatible JVM.
+
+EXAMPLE:
+
+class hello {
+    public static void main (string{args})  {
+        system.out.printin("Helllo");
+    }
+
+}
+
+IN SIMPLE WORDS
+1.python: source code - bytecode - PVM - output
+2.C : source code - compiler - machinecode - output
+3.java : source code - compiler - bytecode - JVM - output 
+
+
+
+
