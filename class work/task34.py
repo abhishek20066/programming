@@ -1,7 +1,7 @@
 class A:#SINGLE
 
     def triangle(self):
-        for i in range(6,0):
+        for i in range(6,0,-1):
             print("*"*i)
 
 class B(A):

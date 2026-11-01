@@ -1,0 +1,8 @@
+Amit Shah, 12 MG Road, Ahmedabad, PIN 380015, Mobile 9000012345
+Rahul Patel, 25 Station Road, Surat, PIN 110001
+Neha Joshi, 8 Ring Road, Rajkot, PIN 380015, Mobile 8000012345
+Karan Mehta, 42 Park Street, Mumbai, PIN 400001
+Riya Shah, 19 Lake View, Ahmedabad, PIN 110001, Mobile 7000012345
+Jay Patel, 7 Market Road, Vadodara, PIN 560001
+Milan Dave, 15 Garden Road, Surat, PIN 400001
+Pooja Shah, 30 Main Road, Rajkot, PIN 380015

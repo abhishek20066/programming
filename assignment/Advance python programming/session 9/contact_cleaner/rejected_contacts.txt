@@ -1,0 +1,4 @@
+Vijay,5000012345,380015 - Invalid mobile
+Meena,900001234,110001 - Invalid mobile
+Nisha,7000012345,056001 - Invalid PIN
+Arjun,5000012345,38001 - Invalid mobile, Invalid PIN
